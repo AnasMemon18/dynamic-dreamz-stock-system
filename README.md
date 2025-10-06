@@ -19,6 +19,6 @@ The frontend server will run on PORT 5173.
 
 I have used MongoDB Atlas as the database.
 
-If you face any unexpected issues (e.g., database connection errors), please let me know. I’ll be happy to get on a quick call and share my screen to resolve them.
+If you face any unexpected issues (e.g., database connection errors), please let me know. I’ll be happy to get on a quick call and share my screen to show the project.
 
 I’ve already enabled access from anywhere in MongoDB Atlas, so you should be able to connect without issues.
