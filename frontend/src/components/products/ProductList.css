@@ -1,0 +1,35 @@
+.product-list-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.product-list-container h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+  font-size: 2.5rem;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 1rem 0;
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 3rem;
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+.error {
+  color: #e74c3c;
+  background: #fdf2f2;
+  border: 1px solid #f5c6cb;
+  border-radius: 8px;
+  margin: 2rem auto;
+  max-width: 500px;
+}
